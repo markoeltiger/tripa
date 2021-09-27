@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225444538046",
+    "project_id": "tripe-5dc2d",
+    "storage_bucket": "tripe-5dc2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225444538046:android:5ddf30ea579067ddd0e0ef",
+        "android_client_info": {
+          "package_name": "com.example.tripa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225444538046-2b9n894ud62g5mr0mahrv32u8l0ccv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2tvbCjdlM_qUHDFY21VmW2vrMJEbFydc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225444538046-2b9n894ud62g5mr0mahrv32u8l0ccv81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
